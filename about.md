@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Credit
+title: Credits
 ---
 
 Coming soon.
