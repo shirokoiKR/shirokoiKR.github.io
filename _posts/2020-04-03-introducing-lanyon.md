@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Comming soon......
+title: Coming soon......
 ---
-Comming soon.
+Coming soon.
