@@ -2,7 +2,7 @@
 title:               shirokoiKR
 tagline:             'shirokoi Korean language Patch'
 description:         'shirokoi Korean language Patch'
-url:                 http://shirokoiKR.github.io
+url:                 https://shirokoiKR.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
