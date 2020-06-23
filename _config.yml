@@ -6,6 +6,7 @@ url:                 https://shirokoiKR.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+markdown: kramdown
 
 # About/contact
 author:
