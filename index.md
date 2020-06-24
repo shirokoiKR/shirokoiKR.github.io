@@ -6,7 +6,7 @@ title: Home
 Coming soon.
 
 
-초벌 번역 진행율 92.5% @ 20.06.24
+초벌 번역 진행률 92.5% @ 20.06.24
 
 
 ![install](/public/installersc.png)
