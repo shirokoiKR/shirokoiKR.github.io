@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 플레이 공략
+title: [스포일러] 공략
 ---
 
 Coming soon.
