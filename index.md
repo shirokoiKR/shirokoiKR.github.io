@@ -30,11 +30,8 @@ Coming soon.
 
 폰트 문제로 스팀 판의 경우 영어판 실행 파일을 사용할 필요가 있습니다.
 
-![SteamSC01](/public/steamsc01.png)
-
-스팀의 Nurse Love Syndrome의 설정에 들어가면 언어를 변경할 수 있는 탭이 있습니다.
-
 ![SteamSC02](/public/steamsc02.png)
 
+스팀의 Nurse Love Syndrome의 설정에 들어가면 언어를 변경할 수 있는 탭이 있습니다.
 언어를 English로 변경하고 확인을 눌러주세요. 잠시 후 영어판 실행 파일과 언어 팩을 다운받기 위한 업데이트가 진행됩니다.
 
