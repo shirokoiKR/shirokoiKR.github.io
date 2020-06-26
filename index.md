@@ -5,9 +5,7 @@ title: Home
 
 Coming soon.
 
-
-초벌 번역 진행율 95.3% @ 20.06.26
-
+초벌 번역 진행률 95.3% @ 20.06.26
 
 이 페이지는 공개에 앞서 조금씩 수정되고 있습니다.
 
@@ -16,7 +14,6 @@ Coming soon.
 ![intro](/public/introsc.png)
 
 ![nagisasenpai](/public/nagisasenpai.png)
-
 
 백의성 연애 증후군 구매하러 가기
 -------------
@@ -37,4 +34,3 @@ Coming soon.
 ![SteamSC02](/public/steamsc02.png)
 
 언어를 English로 변경하고 확인을 눌러주세요. 잠시 후 영어판 실행 파일과 언어 팩을 다운받기 위한 업데이트가 진행됩니다.
-
