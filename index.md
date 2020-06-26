@@ -19,6 +19,6 @@ Coming soon.
 
 
 백의성 연애 증후군 구매하러 가기
-=============
+-------------
 
 [Steam](https://store.steampowered.com/app/1023690/Nurse_Love_Syndrome/)
