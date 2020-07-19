@@ -8,7 +8,7 @@ title: Home
 PC판 시로코이(스팀판 혹은 패키지판)를 소지중이라면 누구나 참여 가능합니다!  
 
 참가 의사가 있으신 분들은 트위터 @KonagonaCoffee  
-혹은 이메일 konaespresso94 @ gmail.com, konaespresso @ mairu.moe   (@ 앞 뒤의 띄어쓰기 없애고)
+혹은 이메일 konaespresso94 @ gmail.com, konaespresso @ mairu.moe   (@ 앞 뒤의 띄어쓰기 없애고)  
 디스코드 Hoshizora Kona#9341 로 연락 부탁 드립니다.
 
 
