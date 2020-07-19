@@ -3,11 +3,16 @@ layout: default
 title: Home
 ---
 
-Coming soon.
+# 베타 테스터를 모집중입니다.  
 
-초벌 번역 진행률 약 100%!  
-내부 검수 약 60% 진행 @ 20.07.06  
-번역과 검수가 완료되는 대로 베타테스트를 모집할 예정입니다.
+PC판 시로코이(스팀판 혹은 패키지판)를 소지중이라면 누구나 참여 가능합니다!  
+
+참가 의사가 있으신 분들은 트위터 @KonagonaCoffee  
+혹은 이메일 konaespresso94 @ gmail.com, konaespresso @ mairu.moe   (@ 앞 뒤의 띄어쓰기 없애고)
+디스코드 Hoshizora Kona#9341 로 연락 부탁 드립니다.
+
+
+
 
 이 페이지는 공개에 앞서 조금씩 수정되고 있습니다.
 
